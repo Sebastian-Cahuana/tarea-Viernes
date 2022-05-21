@@ -1,0 +1,3 @@
+C:/Users/sebas/CLionProjects/TAREA VIERNES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sebas/CLionProjects/TAREA VIERNES/cmake-build-debug/CMakeFiles/TAREA_VIERNES.dir
+C:/Users/sebas/CLionProjects/TAREA VIERNES/cmake-build-debug/CMakeFiles/edit_cache.dir
